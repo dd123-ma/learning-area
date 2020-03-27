@@ -2,6 +2,7 @@
 
 * {
   box-sizing: border-box;
+  font-size:10px;
 }
 
 body {
@@ -43,3 +44,6 @@ header, footer {
 }
 
 /* WRITE YOUR CODE BELOW HERE */
+
+
+
